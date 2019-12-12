@@ -1,6 +1,6 @@
 # bmicalc
 
-A new Flutter project.
+Built a BMI calculator using FLutter
 
 ## Getting Started
 
