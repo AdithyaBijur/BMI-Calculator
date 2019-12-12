@@ -1,6 +1,8 @@
-# bmicalc
+# BMI Calculator
 
 Built a BMI calculator using Flutter
+
+<img src='bmi.gif' height=600 width=300>
 
 ## Getting Started
 
